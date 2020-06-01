@@ -43,6 +43,7 @@ paginate     = 10
     # or
     #
     #path = "/your-example-logo.svg"
+    logoHomeLink = "/"
     path = "/abicena_logo.png"
     alt = "Your example logo alt text"
 
