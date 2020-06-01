@@ -51,8 +51,8 @@ paginate     = 10
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "about/"
+    url        = "/about/"
   [[menu.main]]
     identifier = "services"
     name       = "Our services"
-    url        = "services/"
+    url        = "/services/"
