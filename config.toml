@@ -3,6 +3,7 @@ title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"    
 paginate     = 10
+assetDir     = "static"
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -32,7 +33,7 @@ paginate     = 10
 [languages]
   [languages.en]
     title = "Abicena"
-    subtitle = "A simple theme for Hugo"
+    subtitle = "The data extraction experts"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
@@ -45,15 +46,19 @@ paginate     = 10
     #path = "/your-example-logo.svg"
     logoHomeLink = "/"
     path = "/abicena_logo.png"
-    alt = "Your example logo alt text"
+    alt = "Abicena Logo"
 
   # And you can even create generic menu
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "/about/"
-  [[menu.main]]
     identifier = "services"
-    name       = "Our services"
+    name       = "Services"
     url        = "/services/"
+  [[menu.main]]
+    identifier = "team"
+    name       = "Our Team"
+    url        = "/our_team/"
+  [[menu.main]]
+    identifier = "contact"
+    name       = "Contact"
+    url        = "/contact/"
