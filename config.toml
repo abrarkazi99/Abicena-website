@@ -58,7 +58,3 @@ assetDir     = "static"
     identifier = "team"
     name       = "Our Team"
     url        = "/our_team/"
-  [[menu.main]]
-    identifier = "contact"
-    name       = "Contact"
-    url        = "/contact/"
