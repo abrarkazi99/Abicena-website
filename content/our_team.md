@@ -8,7 +8,7 @@ name = "Our Team"
 
 ![Sakib](/Sakib.jpg)
 
-Sakib is a third year medical student at the University of Ottawa. He is an aspiring Radiologist who enjoys coding.
+Sakib is a fourth year medical student at the University of Ottawa. He is an aspiring Radiologist who enjoys coding.
 
 ![Abrar](/Abrar.jpg)
 
