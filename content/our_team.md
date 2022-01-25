@@ -12,4 +12,4 @@ Sakib is a fourth year medical student at the University of Ottawa. He is an asp
 
 ![Abrar](/Abrar.jpg)
 
-Abrar is a fourth year undergraduate student studying Mathematics and Computer Science at Carleton University. He is excited to bring his expertise in coding to reshape the way we approach medical research.
+Abrar has a Bachelor's in Mathematics and Computer Science from Carleton University. He is excited to bring his expertise in automation to reshape the way we approach medical research.
